@@ -1,4 +1,4 @@
-# BrAIn MRI: Building a supportive ecosystem that enhances the healthcare experience for everyone involved.
+# Medicord: Building a supportive ecosystem that enhances the healthcare experience for everyone involved.
 
 
 As the founder of this innovative startup, I'm [Ibrohim Abdivokhidov](https://linkedin.com/in/abdibrokhim) thrilled to introduce a groundbreaking medical software solution that promises to revolutionize the way Brain MRI examinations are conducted, analyzed, and managed across the healthcare industry. Our product is designed to seamlessly integrate into the workflows of hospitals and clinics, enhancing the accuracy of diagnoses while fostering a supportive community among healthcare professionals and patients. 
@@ -120,9 +120,9 @@ My product represents a new era in healthcare technology, one that prioritizes p
 
 
 ## 📚 Resources
-- [Presentation slides](https://youtu.be/zeEARTEUH3Q)
-- [BrAIn MRI demo](https://youtu.be/zeEARTEUH3Q)
-- [Medicord](https://www.figma.com/file/cu7fC6xrTkWqaoMjs8ESpi/MedHub?type=design&node-id=0%3A1&mode=design&t=jaSdZJiT80emMc52-1)
+- [Presentation slides]()
+- [Medicord demo]()
+- [Medicord UI/UX](https://www.figma.com/file/cu7fC6xrTkWqaoMjs8ESpi/MedHub?type=design&node-id=0%3A1&mode=design&t=jaSdZJiT80emMc52-1)
 
 
 ## ✨ Quick Demo (Phase 1, v0.1)
@@ -161,11 +161,11 @@ My product represents a new era in healthcare technology, one that prioritizes p
 
 
 ## ❓ How to use
-Check out [INSTRUCTIONS.md](https://github.com/abdibrokhim/BrAIn-MRI-App/blob/main/INSTRUCTIONS.md) for detailed instructions on how to run the app on iOS, Android, and Chrome.
+Check out [INSTRUCTIONS.md](https://github.com/abdibrokhim/Medicord/blob/main/INSTRUCTIONS.md) for detailed instructions on how to run the app on iOS, Android, and Chrome.
 
 
 ## 📝 License
-This project is licensed under the [MIT License](https://github.com/abdibrokhim/BrAIn-MRI-App/blob/main/LICENSE)
+This project is licensed under the [MIT License](https://github.com/abdibrokhim/Medicord/blob/main/LICENSE)
 
 
 ## 📧 Contact

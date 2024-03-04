@@ -45,7 +45,7 @@ class MyApp extends StatelessWidget {
       store: store,
       child: 
     MaterialApp(
-      onGenerateTitle: (context) => 'BrAIn MRI',
+      onGenerateTitle: (context) => 'Medicord',
       theme: _buildTheme(Brightness.light),
       darkTheme: _buildTheme(Brightness.dark),
       home: const SplashScreen(),

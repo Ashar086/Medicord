@@ -12,13 +12,13 @@
 ### 📥 Clone Repository
 
 ```bash
-git clone https://github.com/abdibrokhim/BrAIn-MRI-App.git
+git clone https://github.com/abdibrokhim/Medicord.git
 ```
 
 ### 📂 Go to the Project Directory
 
 ```bash
-cd BrAIn-MRI-App
+cd Medicord
 ```
 
 ### 📦 Install Dependencies
@@ -59,7 +59,7 @@ flutter run -d chrome
 
 ## ❓ How to Use (Phase 1, v0.1)
 
-Make sure you already have the Backend API running on your local machine or on a server. You can find the backend API [here](https://github.com/abdibrokhim/BrAIn-MRI-App-Api) and follow the instructions written in the [README.md](https://github.com/abdibrokhim/BrAIn-MRI-App-Api/blob/main/README.md).
+Make sure you already have the Backend API running on your local machine or on a server. You can find the backend API [here](https://github.com/abdibrokhim/Medicord-Service) and follow the instructions written in the [README.md](https://github.com/abdibrokhim/Medicord-Service/blob/main/README.md).
 
 After running the app, you can either sign in with the following credentials (if you need pre-populated data like patients, observations, etc.):
 
@@ -95,7 +95,7 @@ You can always manage patient records, such as:
 - **Edit Conclusion:** by clicking on the conclusion text.
 - **Generate PDF Report:** by clicking on the report icon.
 
-Back to [README.md](https://github.com/abdibrokhim/BrAIn-MRI-App/blob/main/README.md) for more info.
+Back to [README.md](https://github.com/abdibrokhim/Medicord/blob/main/README.md) for more info.
 
 ## 📚 External Resources
 
